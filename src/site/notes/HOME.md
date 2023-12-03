@@ -2,6 +2,12 @@
 {"title":"周俊文的obsidian","dg-publish":true,"dg-home":true,"permalink":"/HOME/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
+*欢迎来到周俊文的obsidian知识库！*
+
+该网站是基于：obsidian、netlify以及GitHub创建的，同时依靠digital garden插件。
+如果您也想创建一个这样的网站，可以参考以下的教程：
+https://www.bilibili.com/video/BV1HF411173m/?spm_id_from=333.1007.top_right_bar_window_history.content.click
+
 这是周俊文的obsidian空间，我将会在这里记录我的知识库。
 
 # 目录
