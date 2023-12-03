@@ -1,5 +1,5 @@
 ---
-{"documentclass":"ctexart","dg-publish":true,"permalink":"//principles-of-biostatistics/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"//principles-of-biostatistics/","dgPassFrontmatter":true}
 ---
 
 
