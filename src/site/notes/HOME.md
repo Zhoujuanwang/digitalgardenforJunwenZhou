@@ -2,11 +2,7 @@
 {"title":"周俊文的obsidian","dg-publish":true,"dg-home":true,"permalink":"/HOME/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
-<img
-	 src="images/white_horse.jpg"
-	 width="100"
-	 height="70"
-	 title="冬日里奔驰的马，致一位我喜欢的人"/>
+![images/white-horse-3010129_1920.jpg](/img/user/images/white-horse-3010129_1920.jpg)
 
 <font size=5 color='#9AFF9A'><i>欢迎来到周俊文的obsidian知识库！</i></font>
 
