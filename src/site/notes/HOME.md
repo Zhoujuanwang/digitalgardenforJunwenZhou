@@ -2,7 +2,8 @@
 {"title":"周俊文的obsidian","dg-publish":true,"dg-home":true,"permalink":"/HOME/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
-*欢迎来到周俊文的obsidian知识库！*
+
+<font size=5 color='#9AFF9A'><i>欢迎来到周俊文的obsidian知识库！</i></font>
 
 该网站是基于：obsidian、netlify以及GitHub创建的，同时依靠digital garden插件。
 如果您也想创建一个这样的网站，可以参考以下的教程：
@@ -18,5 +19,5 @@ https://www.bilibili.com/video/BV1HF411173m/?spm_id_from=333.1007.top_right_bar_
 
 ### 传播复习[[复习/传播复习\|传播复习]]
 
-## 武器库
->这里是周俊文的兵器库，这里收藏了我的各种兵器。
+## 技能库
+>这是总结了我收藏的各种教程，并进行了分类，有用没有的都在这里。
