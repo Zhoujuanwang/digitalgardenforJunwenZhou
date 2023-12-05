@@ -100,12 +100,4 @@ $$S(t)=S(0)e^{-R(t)R_0}$$
 由于R(t)<1，所以总有：$S>e^{-R_0}$，也就是说，人群中总有一些易感者逃避感染
 从而得到一条重要推论：
 The chain of transmission eventually breaks due to the decline in infectives, not due to a complete lack of susceptibles.（传播链最终由于感染人数的下降而破裂，而不是由于完全缺乏易感者）
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-</div></div>
-
+![[数学作业/传染病建模/images/Pasted image 20231202183211.png\|数学作业/传染病建模/images/Pasted image 20231202183211.png]]
