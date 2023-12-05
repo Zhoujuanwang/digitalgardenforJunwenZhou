@@ -3,6 +3,19 @@
 ---
 
 
+>[!cite]
+>由于篇幅有限，且有一些知识比较基础，因此，这里只列举我认为的比较重要的知识点
+## 2 Data Presentation
+### 数据类型
+1. nominal data：名义数据：一种用于描述分类变量的数据类型；如果名义数据只有两种取值，那么又称为二分类数据
+2. ordinal data：序数数据：一种数据类型，它将数据按照一定的顺序排列，但不具备等距性质
+比如说：1代表死亡、2代表重伤、3代表中度伤、4代表轻伤
+3. Rank data：顺序数据
+>In some situations, we have a group of observations that are first arranged from highest to lowest according to magnitude and then assigned numbers that correspond to each obser- vation's place in the sequence. [^1]
+
+<kbd>rank data和ordinal data有什么区别？我认为可能是是否有等距性？或者说，很多个对象的ordinal data 的平均值是没有意义的，而多个对象的rank data平均值是有意义的，它可以反映平均的排名情况？</kbd>
+4. discrete data：离散型数据
+
 ## 8. Sampling Distribution of the Mean
 
 ### 一些概念
@@ -113,5 +126,5 @@ $$n^*=na+n(1-a)\pi$$
 $$n^*-na=n(1-a)\pi$$
 $$\pi=\frac{(n^*/n)-a}{1-a}$$
 
-
-[^1]:Gauvreau, Kimberlee_ Pagano, Marcello - Principles of biostatistics-CRC Press (2018), page 512
+[^1]Gauvreau, Kimberlee_ Pagano, Marcello - Principles of biostatistics-CRC Press (2018), page 27
+[^2]:Gauvreau, Kimberlee_ Pagano, Marcello - Principles of biostatistics-CRC Press (2018), page 512
