@@ -88,3 +88,22 @@ description的作用之一就是搜索引擎优化，就是通过搜素引擎找
 ```html
 <link rel="stylesheet" href="my-css-file.css" />
 ```
+
+### HTML文本处理基础
+标题：
+从\<h1>一直到\<h6>
+段落元素被\<p>包围：
+<p>这是一个段落</p>
+#### 有序列表和无序列表
+有序列表用\<ul> 包裹，每一个项由\<li>，有序列表则由<\ol>包裹
+示例区：
+
+<ul>This is a unordered list
+<li>one</li>
+<li>two</li>
+</ul>
+<ol>This is a ordered list
+<li>one</li>
+<li>two</li>
+</ol>
+
