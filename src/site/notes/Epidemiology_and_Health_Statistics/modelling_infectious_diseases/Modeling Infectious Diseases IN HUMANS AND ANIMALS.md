@@ -3,6 +3,9 @@
 ---
 
 
+参考资料：
+关于传染病的数学模型有哪些？ - 数学人生的回答 - 知乎
+https://www.zhihu.com/question/367466399/answer/985150406
 # introduction
 ## 传染性疾病的四阶段模型
 SEIR (susceptible-exposed-infectious-recovered)
