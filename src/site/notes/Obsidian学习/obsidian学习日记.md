@@ -59,7 +59,6 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
 
 
-
 2023年12月2日
 尝试了pandoc的导出pdf功能，大概理解了pandoc、obsidian、xelatex之间的关系。
 首先，obsidian是一个markdown编辑器，负责生成markdown文件，pandoc则是一个文件转换器，通过它可以将markdown文件转为各种其他格式的文件。其中，pdf格式的文件是最常用的，pandoc在将markdown文件转为pdf文件时时需要用到编辑器，xelatex就是一个编辑器的功能。pandoc有自己的一套latex模板，xelatex根据这个模板，生成对应格式的pdf文件。
@@ -78,6 +77,9 @@ pandoc {相关与回归作业.md} -o test.pdf --pdf-engine=xelatex -V CJKmainfon
 
 pandoc中的一些命令合集：
 [Pandoc+TeXLive实现Markdown转PDF - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/444440478)
+
+[Getting started - Obsidian Full Calendar (davish.github.io)](https://davish.github.io/obsidian-full-calendar/getting_started/)
+
 
 [^3] 这个问题已经解决，图片的引用方式改为绝对路径就行
 
